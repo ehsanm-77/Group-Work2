@@ -3,7 +3,11 @@
     --color-secondry:#FFFFFF;
     --color-thirty: #EAEAEA;
     --color-fourthy:#2690D4;
-    --color-link:#11486B;
+    --color-link:#1b6ea3;
+}
+@font-face {
+    font-family: "sofiasans";
+    src: url(/font/SofiaSans-Medium.ttf);
 }
 *,
 *::after,
@@ -13,4 +17,7 @@
 }
 html{
     font-size: 62.5%;
+}
+body{
+    font-family: "sofiasans";
 }
