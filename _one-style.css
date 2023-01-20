@@ -1,7 +1,6 @@
 .first-div {
     background-color: var(--color-thirty);
     margin: 0 auto;
-    position: absolute;
     flex-direction: column;
     text-align: center;
     font-size: 1.4rem;
@@ -15,7 +14,7 @@
     font-weight: 800;
 }
 
-.first-buttom {
+.first-div-buttom {
     width: 100%;
     display: flex;
     justify-content: center;
