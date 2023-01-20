@@ -1,4 +1,5 @@
 @import url(./_reset.css);
+@import url(./_one-style.css);
 .header {
   max-width: 1440px;
   height: 20rem;
